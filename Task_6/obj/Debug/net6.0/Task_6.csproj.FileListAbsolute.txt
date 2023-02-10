@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.AssemblyInfo.cs
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/bin/Debug/net6.0/Task_6
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/bin/Debug/net6.0/Task_6.deps.json
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/bin/Debug/net6.0/Task_6.runtimeconfig.json
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/bin/Debug/net6.0/Task_6.dll
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/bin/Debug/net6.0/Task_6.pdb
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.dll
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/refint/Task_6.dll
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.pdb
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/Task_6.genruntimeconfig.cache
+/Users/macbook/Desktop/IT/C#/Hometask1/Task_6/obj/Debug/net6.0/ref/Task_6.dll
